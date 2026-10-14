@@ -1,0 +1,6 @@
+{
+  "name": "SyncLab – Interactive Process Synchronization Simulator",
+  "description": "A college-level Computer Science educational web application for mastering Operating System process synchronization, race conditions, critical sections, semaphores, mutexes, and classical synchronization problems with live interactive simulations, algorithm visualizers, code playgrounds, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
